@@ -1,0 +1,26 @@
+{
+  "checks": [
+    {
+      "case": "Perfil diario coherente",
+      "passed": true
+    },
+    {
+      "case": "Publicidad sin producto rechaza ese desglose",
+      "passed": true
+    },
+    {
+      "case": "Referencia inexistente se rechaza",
+      "passed": true
+    },
+    {
+      "case": "Concepto duplicado se rechaza",
+      "passed": true
+    },
+    {
+      "case": "Operación no admitida se rechaza",
+      "passed": true
+    }
+  ],
+  "passed": 5,
+  "network": "forbidden"
+}

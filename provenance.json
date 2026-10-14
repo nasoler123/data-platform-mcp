@@ -1,0 +1,268 @@
+[
+  {
+    "id": "E11",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/agent/bi/duckdb_engine.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/agent/bi/duckdb_engine.py#L795",
+    "startLine": 795,
+    "kind": "Código",
+    "public_path": "evidence/E11.md",
+    "original_excerpt_sha256": "4434f2c2d55c93fe792f6cff68e0a0aa9bbe84c786cd1b92f569b5201568e652",
+    "published_excerpt_sha256": "4434f2c2d55c93fe792f6cff68e0a0aa9bbe84c786cd1b92f569b5201568e652",
+    "redactions": []
+  },
+  {
+    "id": "E22",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/api/chalsai_mcp/analyst_router.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/api/chalsai_mcp/analyst_router.py#L1828",
+    "startLine": 1828,
+    "kind": "Código",
+    "public_path": "evidence/E22.md",
+    "original_excerpt_sha256": "6ace42d07616f0b2da6687160b3642de672e61d61c65f819654e1ab657af38e9",
+    "published_excerpt_sha256": "6ace42d07616f0b2da6687160b3642de672e61d61c65f819654e1ab657af38e9",
+    "redactions": []
+  },
+  {
+    "id": "E23",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/api/chalsai_mcp/oauth.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/api/chalsai_mcp/oauth.py#L593",
+    "startLine": 593,
+    "kind": "Código",
+    "public_path": "evidence/E23.md",
+    "original_excerpt_sha256": "404426fbc18bd1f267ad24f2a51bfbe51b793f2cd08aa98a1d3fa5b8060e0693",
+    "published_excerpt_sha256": "404426fbc18bd1f267ad24f2a51bfbe51b793f2cd08aa98a1d3fa5b8060e0693",
+    "redactions": []
+  },
+  {
+    "id": "E24",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/agent/bi/sql_guard.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/agent/bi/sql_guard.py#L197",
+    "startLine": 197,
+    "kind": "Código",
+    "public_path": "evidence/E24.md",
+    "original_excerpt_sha256": "d2379cd64901de4a3bfb0f4659eab887c77d8c66b89d751657f0da265ad81b16",
+    "published_excerpt_sha256": "d2379cd64901de4a3bfb0f4659eab887c77d8c66b89d751657f0da265ad81b16",
+    "redactions": []
+  },
+  {
+    "id": "E25",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/api/chalsai_mcp/analyst_doctrine.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/api/chalsai_mcp/analyst_doctrine.py#L920",
+    "startLine": 914,
+    "kind": "Código",
+    "public_path": "evidence/E25.md",
+    "original_excerpt_sha256": "c2d778c726bb103a849ed698fa3f5ec94d34cbdcd446269880a6b7f337358ef8",
+    "published_excerpt_sha256": "c2d778c726bb103a849ed698fa3f5ec94d34cbdcd446269880a6b7f337358ef8",
+    "redactions": []
+  },
+  {
+    "id": "E27",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "README.md",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/README.md#L1",
+    "startLine": 23,
+    "kind": "Contrato",
+    "public_path": "evidence/E27.md",
+    "original_excerpt_sha256": "03f6e118729f91db8fab8c4e188a0dab869983ac7495d1fb759c0fb00355eb8a",
+    "published_excerpt_sha256": "03f6e118729f91db8fab8c4e188a0dab869983ac7495d1fb759c0fb00355eb8a",
+    "redactions": []
+  },
+  {
+    "id": "E28",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/manifest.yaml",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/manifest.yaml#L1",
+    "startLine": 1,
+    "kind": "Contrato",
+    "public_path": "evidence/E28.md",
+    "original_excerpt_sha256": "3cc3ce1872a58e6889b9b9407db226dcd25f62e004c397de8d765bb9d0fc17a4",
+    "published_excerpt_sha256": "3cc3ce1872a58e6889b9b9407db226dcd25f62e004c397de8d765bb9d0fc17a4",
+    "redactions": []
+  },
+  {
+    "id": "E29",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/drivers.seed.yaml",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/drivers.seed.yaml#L1",
+    "startLine": 109,
+    "kind": "Contrato",
+    "public_path": "evidence/E29.md",
+    "original_excerpt_sha256": "a68c303f68d9e0ccf295d817e5a9ed9972341a4c843d01f77d369e08b0216261",
+    "published_excerpt_sha256": "a68c303f68d9e0ccf295d817e5a9ed9972341a4c843d01f77d369e08b0216261",
+    "redactions": []
+  },
+  {
+    "id": "E30",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/dbt/models/shopify/pedidos.sql",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/dbt/models/shopify/pedidos.sql#L1",
+    "startLine": 1,
+    "kind": "SQL",
+    "public_path": "evidence/E30.md",
+    "original_excerpt_sha256": "fa86e6704e0ae1a55f705affe540caf10b39e144e61d30292221e0ee55fe5ee4",
+    "published_excerpt_sha256": "60e39e8c2e1e5f70578c1b3856a87013be0e06e163fe2f48e9065fc66fd5f2f7",
+    "redactions": [
+      {
+        "reason": "Infrastructure or client/workflow identifier anonymized",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "id": "E31",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/dbt/tests/shopify/control_pedidos.sql",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/dbt/tests/shopify/control_pedidos.sql#L1",
+    "startLine": 1,
+    "kind": "SQL",
+    "public_path": "evidence/E31.md",
+    "original_excerpt_sha256": "3b6061edccfb04c994c0453aa2a123c470daa75efc824baa3591360b0969cf5b",
+    "published_excerpt_sha256": "5bed8312b26404f14ce40476ab7e09a32fd5f973a0d615c818f2e4a249aea39b",
+    "redactions": [
+      {
+        "reason": "Infrastructure or client/workflow identifier anonymized",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "id": "E32",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/dbt/models/anuncios/tienda_y_publicidad.sql",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/dbt/models/anuncios/tienda_y_publicidad.sql#L1",
+    "startLine": 1,
+    "kind": "SQL",
+    "public_path": "evidence/E32.md",
+    "original_excerpt_sha256": "d5163fb898a76bdf4e7e1f3100338dd77cbb7d7a9bcc7231725385633807a91f",
+    "published_excerpt_sha256": "d5163fb898a76bdf4e7e1f3100338dd77cbb7d7a9bcc7231725385633807a91f",
+    "redactions": []
+  },
+  {
+    "id": "E33",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "runner/main.py",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/runner/main.py#L882",
+    "startLine": 882,
+    "kind": "Código",
+    "public_path": "evidence/E33.md",
+    "original_excerpt_sha256": "7690904efd331d9b067136fa42f4cfb376d331827c1c319a09f3a95dc792058b",
+    "published_excerpt_sha256": "80ff30cb4614283fcf8a0c7816b62839369e50bdf997b85e52450bfe8114dbc0",
+    "redactions": [
+      {
+        "reason": "Infrastructure or client/workflow identifier anonymized",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "id": "E34",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "profiles/shopify-free-v1/validation/paridad-3.3.0.md",
+    "url": "https://github.com/nasoler123/chals-data-engineer/blob/072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164/profiles/shopify-free-v1/validation/paridad-3.3.0.md#L1",
+    "startLine": 10,
+    "kind": "Contrato",
+    "public_path": "evidence/E34.md",
+    "original_excerpt_sha256": "cf5333edeadff83891dee36b2053b6cd6a462fcb04df48448b2296ae4ca99241",
+    "published_excerpt_sha256": "cf5333edeadff83891dee36b2053b6cd6a462fcb04df48448b2296ae4ca99241",
+    "redactions": []
+  },
+  {
+    "id": "E35",
+    "repo": "chals-workflows",
+    "sha": "798aa2e218b290d5636ea4341af83a714a984974",
+    "path": "series/shopify-weekly-review/SKILL.md",
+    "url": "https://github.com/nasoler123/chals-workflows/blob/798aa2e218b290d5636ea4341af83a714a984974/series/shopify-weekly-review/SKILL.md#L1",
+    "startLine": 1,
+    "kind": "Contrato",
+    "public_path": "evidence/E35.md",
+    "original_excerpt_sha256": "6c3cba502cfabfa3fe7c7dcb1ffd8cccea8af8c1f2f5d6bd742a3ebcaa48d093",
+    "published_excerpt_sha256": "6c3cba502cfabfa3fe7c7dcb1ffd8cccea8af8c1f2f5d6bd742a3ebcaa48d093",
+    "redactions": []
+  },
+  {
+    "id": "E36",
+    "repo": "chals-workflows",
+    "sha": "798aa2e218b290d5636ea4341af83a714a984974",
+    "path": "workflows/<redacted-workflow>/VALIDATION.md",
+    "startLine": 1,
+    "kind": "Contrato",
+    "public_path": "evidence/E36.md",
+    "original_excerpt_sha256": "cee957fe5e8db90bf1f11e8d5b37a6603c8f902024ef5999c2e46c7638146504",
+    "published_excerpt_sha256": "356239a5f461ce8c53be071afbed17103dd248ca235ad358b2e2fc8c3bcecff3",
+    "redactions": [
+      {
+        "reason": "Infrastructure or client/workflow identifier anonymized",
+        "occurrences": 2
+      },
+      {
+        "reason": "Workflow identifier removed from source path and private URL",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "id": "E37",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "tests/functions/agente-analyst-sdk/api/test_chalsai_mcp_oauth.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/tests/functions/agente-analyst-sdk/api/test_chalsai_mcp_oauth.py#L1",
+    "startLine": 1,
+    "kind": "Prueba",
+    "public_path": "evidence/E37.md",
+    "original_excerpt_sha256": "30b03373dc4a9227a58784a85a15059ed78cb1f3c884af048029726dd745a338",
+    "published_excerpt_sha256": "30b03373dc4a9227a58784a85a15059ed78cb1f3c884af048029726dd745a338",
+    "redactions": []
+  },
+  {
+    "id": "E38",
+    "repo": "asesor_virtual_repo",
+    "sha": "bdc26366debb6aec96a91135c8cde717cbc3803d",
+    "path": "functions/agente-analyst-sdk/tests/test_bi_duckdb_engine.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/bdc26366debb6aec96a91135c8cde717cbc3803d/functions/agente-analyst-sdk/tests/test_bi_duckdb_engine.py#L1",
+    "startLine": 1,
+    "kind": "Prueba",
+    "public_path": "evidence/E38.md",
+    "original_excerpt_sha256": "3aabd741e58427d7fec356e0f790558b611fc1ab21a19b1733a0eb966c351889",
+    "published_excerpt_sha256": "3aabd741e58427d7fec356e0f790558b611fc1ab21a19b1733a0eb966c351889",
+    "redactions": []
+  },
+  {
+    "id": "E40",
+    "repo": "chals-ai",
+    "sha": "a0bd4d4ed989588424b10fb14ad367fe8ce580b5",
+    "path": "CURRENT_ARCHITECTURE.md",
+    "url": "https://github.com/nasoler123/chals-ai/blob/a0bd4d4ed989588424b10fb14ad367fe8ce580b5/CURRENT_ARCHITECTURE.md#L1",
+    "startLine": 88,
+    "kind": "Contrato",
+    "public_path": "evidence/E40.md",
+    "original_excerpt_sha256": "f60cb714285c190bb9f0aa7431a2a298c32cb5499ceb7ec1b67dba28cf9b2489",
+    "published_excerpt_sha256": "f60cb714285c190bb9f0aa7431a2a298c32cb5499ceb7ec1b67dba28cf9b2489",
+    "redactions": []
+  },
+  {
+    "kind": "runnable sample",
+    "repo": "chals-data-engineer",
+    "sha": "072f86d0d9cd67bcb4c4e5deeb0f82f2a8d88164",
+    "path": "runner/coherencia.py",
+    "extraction": "Módulo original completo, importado sin ejecutar su CLI ni leer perfiles externos.",
+    "sample_sha256": "d77034bc4085305646da588aa726220dfb328f6f5226f6011afda0fa8fc74c17",
+    "public_path": "source/profile_coherence.py"
+  }
+]

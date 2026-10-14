@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+credentials*
+secrets*
+.DS_Store

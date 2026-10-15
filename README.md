@@ -24,9 +24,15 @@ An apparently plausible metric can be wrong because its pieces have different gr
 
 **My work.** I connected source systems, built and checked curated models, defined base and derived business metrics, and exposed governed analysis through a semantic runtime and MCP. The stack uses BigQuery as the authoritative warehouse and Parquet/DuckDB as derived serving. I led the product and technical construction, using AI-assisted development alongside integration and verification.
 
-**Period.** July–October 2026.
+**Period.** July 2026–present.
 
-**Project outcome.** Approximately five data / BI clients in total, according to the founder. This is declared adoption, not a client count inferred from repository folders.
+**Current use.** The platform remains active with **two brands**. I also use it through its MCP in **Claude and ChatGPT**, primarily for internal development, exploration and hobby projects.
+
+### Internal use: Chals Channel
+
+**Chals Channel** is one of my side projects. I brought together multiple datasets of LinkedIn profiles and published content, and carried out ingestion, cleaning, normalization, data modeling and quality checks. I use that data through Chals AI’s MCP in Claude and ChatGPT for internal analysis and development.
+
+Usage status reported by the founder on 15 October 2026.
 
 ## What you can inspect here
 

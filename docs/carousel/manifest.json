@@ -1,0 +1,51 @@
+{
+  "kind": "published_linkedin_carousel",
+  "source_url": "https://lnkd.in/p/ePyCxKwB",
+  "original_post_url": "https://www.linkedin.com/posts/ignacio-soler-esteban_es-lunes-tienes-que-analizar-c%C3%B3mo-ha-ido-ugcPost-7510270412988084224-EQuN/",
+  "published_on": "2026-09-28",
+  "author": "Ignacio Soler",
+  "data": "Synthetic data and anonymized names, as disclosed in the original post.",
+  "transformation": "None; the four JPEG images were copied byte-for-byte from the published carousel, in their original order.",
+  "assets": [
+    {
+      "order": 1,
+      "file": "01-sales.jpg",
+      "caption_en": "Sales by company and customer",
+      "caption_es": "Ventas por sociedad y cliente",
+      "sha256": "91b392ded017a0bd7cc4b8e80153152e09353e093778328c0cf54de10ee36cc3",
+      "bytes": 140854,
+      "width": 1498,
+      "height": 1190
+    },
+    {
+      "order": 2,
+      "file": "02-receivables-aging.jpg",
+      "caption_en": "Receivables aging and upcoming due dates",
+      "caption_es": "Aging y próximos vencimientos",
+      "sha256": "bb5c2874e1ffc9c413a8255dda47533a8c8c30a38f9b8d1c3712ff5ba68a44ed",
+      "bytes": 82057,
+      "width": 1486,
+      "height": 1070
+    },
+    {
+      "order": 3,
+      "file": "03-excel.jpg",
+      "caption_en": "Excel with filters and charts",
+      "caption_es": "Excel con filtros y gráficos",
+      "sha256": "1d4052c4d440ca751507279b3f15922ca237d847ce6bb721bb1f994b520d8204",
+      "bytes": 219185,
+      "width": 2048,
+      "height": 707
+    },
+    {
+      "order": 4,
+      "file": "04-product-report.jpg",
+      "caption_en": "Sales report by wine, brand and channel",
+      "caption_es": "Informe por vino, marca y canal",
+      "sha256": "594fda42704108023ba16ecba9e2ea7ba8c31748a3b2acda9da98a423f1946b1",
+      "bytes": 230219,
+      "width": 2048,
+      "height": 1124
+    }
+  ]
+}

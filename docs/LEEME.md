@@ -2,17 +2,17 @@
 
 Ingesta, BigQuery, dbt, semántica, dimensiones, métricas, serving y permisos MCP.
 
-## Ver el frontend
+## Ver el workflow con MCP
 
-Demo guiada del frontend anterior de datos y automatización, con datos ficticios y una conversación con guion. Ilustra esa interfaz; la implementación del almacén, el runtime semántico y el MCP se documenta más abajo.
+Un workflow para una empresa de vinos: **ERP → BigQuery → dbt → Chals AI MCP → Claude**. Las cuatro capturas siguen una misma conversación, desde ventas y aging de cobros hasta Excel e informe de producto. Publicadas con datos sintéticos y nombres anonimizados.
 
-### Interfaz de datos y automatización · 60s
+| 1. Ventas | 2. Aging de cobros |
+|---|---|
+| [![Ventas por sociedad y cliente](carousel/01-sales.jpg)](carousel/01-sales.jpg) | [![Aging y próximos vencimientos](carousel/02-receivables-aging.jpg)](carousel/02-receivables-aging.jpg) |
+| 3. Excel | 4. Informe de producto |
+| [![Excel con filtros y gráficos](carousel/03-excel.jpg)](carousel/03-excel.jpg) | [![Informe por vino, marca y canal](carousel/04-product-report.jpg)](carousel/04-product-report.jpg) |
 
-https://github.com/user-attachments/assets/71898e21-c52d-4f60-90b4-336e08bea58b
-
-[Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=data-pipelines&utm_source=github&utm_medium=portfolio&utm_campaign=data-platform-mcp) · [Descargar MP4](demos/data-pipelines.mp4)
-
-[Procedencia de los vídeos](demos/manifest.json).
+[Ver las cuatro imágenes a tamaño completo](mcp-carousel.md) · [Publicación original en LinkedIn](https://lnkd.in/p/ePyCxKwB) · [Procedencia de las imágenes](carousel/manifest.json).
 
 ## Qué demuestra este caso
 

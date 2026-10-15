@@ -8,7 +8,7 @@ Demo guiada del frontend anterior de datos y automatización, con datos ficticio
 
 ### Interfaz de datos y automatización · 60s
 
-![](demos/data-pipelines.mp4)
+https://github.com/user-attachments/assets/71898e21-c52d-4f60-90b4-336e08bea58b
 
 [Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=data-pipelines&utm_source=github&utm_medium=portfolio&utm_campaign=data-platform-mcp) · [Descargar MP4](demos/data-pipelines.mp4)
 

@@ -10,7 +10,7 @@ A guided demo of the earlier data-and-automation frontend, with synthetic data a
 
 ### Data and automation interface · 60s
 
-![](docs/demos/data-pipelines.mp4)
+https://github.com/user-attachments/assets/71898e21-c52d-4f60-90b4-336e08bea58b
 
 [Open the full-screen demo](https://chalsai.com/demo.html?script=data-pipelines&utm_source=github&utm_medium=portfolio&utm_campaign=data-platform-mcp) · [Download MP4](docs/demos/data-pipelines.mp4)
 

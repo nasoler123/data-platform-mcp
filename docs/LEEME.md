@@ -18,7 +18,13 @@ Un workflow para una empresa de vinos: **ERP → BigQuery → dbt → Chals AI M
 
 Ingesta, publicación y MCP completos necesitan la infraestructura y cuentas. La demo ejecuta el gate original de coherencia sobre un perfil sintético.
 
-**Resultado del proyecto:** Aproximadamente cinco clientes de data / BI, según el fundador; no se infiere adopción a partir de las demos.
+**Uso actual:** La plataforma sigue activa con **dos marcas**. También la utilizo mediante su MCP en **Claude y ChatGPT**, principalmente para desarrollo interno, exploración y proyectos personales y de afición.
+
+### Uso interno: Chals Channel
+
+**Chals Channel** es uno de mis side projects. Reuní varias bases de datos de perfiles de LinkedIn y contenido publicado, y realicé su ingesta, limpieza, normalización, modelado y controles de calidad. Utilizo esos datos a través del MCP de Chals AI en Claude y ChatGPT para análisis y desarrollo internos.
+
+Estado de uso comunicado por el fundador el 15 de octubre de 2026.
 
 ## Probar el componente
 

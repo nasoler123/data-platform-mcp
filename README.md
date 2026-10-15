@@ -2,7 +2,19 @@
 
 Business metrics with explicit grain, source meaning and execution boundaries.
 
-[Run the sample](#run-the-sample) · [Architecture](docs/architecture.md) · [Design decisions](docs/decisions.md) · [Code tour](docs/code-tour.md) · [Español](docs/LEEME.md)
+[Watch the frontend](#watch-the-frontend) · [Run the sample](#run-the-sample) · [Architecture](docs/architecture.md) · [Design decisions](docs/decisions.md) · [Code tour](docs/code-tour.md) · [Español](docs/LEEME.md)
+
+## Watch the frontend
+
+A guided demo of the earlier data-and-automation frontend, with synthetic data and a scripted chat. It illustrates that interface; the warehouse, semantic runtime and MCP implementation are documented below.
+
+### Data and automation interface · 60s
+
+![](docs/demos/data-pipelines.mp4)
+
+[Open the full-screen demo](https://chalsai.com/demo.html?script=data-pipelines&utm_source=github&utm_medium=portfolio&utm_campaign=data-platform-mcp) · [Download MP4](docs/demos/data-pipelines.mp4)
+
+[Media provenance](docs/demos/manifest.json).
 
 ![Data Platform and MCP illustrated architecture](docs/overview.svg)
 

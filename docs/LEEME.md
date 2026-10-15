@@ -2,6 +2,18 @@
 
 Ingesta, BigQuery, dbt, semántica, dimensiones, métricas, serving y permisos MCP.
 
+## Ver el frontend
+
+Demo guiada del frontend anterior de datos y automatización, con datos ficticios y una conversación con guion. Ilustra esa interfaz; la implementación del almacén, el runtime semántico y el MCP se documenta más abajo.
+
+### Interfaz de datos y automatización · 60s
+
+https://github.com/user-attachments/assets/71898e21-c52d-4f60-90b4-336e08bea58b
+
+[Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=data-pipelines&utm_source=github&utm_medium=portfolio&utm_campaign=data-platform-mcp) · [Descargar MP4](demos/data-pipelines.mp4)
+
+[Procedencia de los vídeos](demos/manifest.json).
+
 ## Qué demuestra este caso
 
 Ingesta, publicación y MCP completos necesitan la infraestructura y cuentas. La demo ejecuta el gate original de coherencia sobre un perfil sintético.
